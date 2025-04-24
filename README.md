@@ -1,6 +1,13 @@
 # apptodo
 
-A new Flutter project.
+Fetch Todos and product Flutter project.
+<img width="331" alt="image" src="https://github.com/user-attachments/assets/5af789fc-27eb-4d6f-bc0d-f1f24f3d8eaf" />
+
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/9c92ba45-9ffb-4bb8-b4d3-5c313b997ba6" />
+
+<img width="238" alt="image" src="https://github.com/user-attachments/assets/10b23bcd-b2ce-4fe9-bd92-c85c15d832e9" />
+
+
 
 ## Getting Started
 
